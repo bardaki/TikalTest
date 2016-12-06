@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements
             return;
         }
 
-        //If it's mobile use only portrait mode
+        //If it's phone use only portrait mode
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         if (savedInstanceState == null) {
