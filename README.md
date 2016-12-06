@@ -1,6 +1,6 @@
 # TikalTest
 
-Tikal Test-
+
 
 Movies application with 2 screens:
 
@@ -12,8 +12,12 @@ Movies application with 2 screens:
 The application supports tablets (landscape mode) and phones (portrait mode).
 
 
-3rd pary libraries:
+3rd party libraries:
 
 * Volley - for network requests.
 
 * Picasso - for image downloading and cashing.
+
+
+
+Thanks!
